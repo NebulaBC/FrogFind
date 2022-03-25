@@ -31,6 +31,6 @@
     Send me an email! <a href="mailto:actionretro@pm.me">actionretro@pm.me</a>
     <br>Contact neb (instance maintainer) at <a href="https://www.neb.cx/contact/">neb.cx/contact</a>
     <h3>Why I host this instance?</h3>
-    I use frogfind daily, because I do not use a standard browser. I use LYNX, and it can not render other search engines/websites well. The official instance of frogfind is slow and non-https, so I made my own.
+    I use frogfind daily, because I do not use a standard browser. I use LYNX, and it can not render other search engines/websites well. The official instance of frogfind is slow and non-https (so it will work with vintage computers, *not required for me*), so I made my own instance.
 </body>
 </html>
