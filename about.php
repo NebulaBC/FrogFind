@@ -29,5 +29,8 @@
     I designed FrogFind with classic Macs in mind, so I've been testing on my SE/30 to make sure it looks good in 1 bit color with a 512x384 resolution. Most of my testing has been on Netscape 1.1N and 2.0.2, as well as a few 68k Mac versions of iCab. FrogFind should also work great on any text-based web browser!
     <h3>How can I get in touch with you?</h3>
     Send me an email! <a href="mailto:actionretro@pm.me">actionretro@pm.me</a>
+    <br>Contact neb (instance maintainer) at <a href="https://www.neb.cx/contact/">neb.cx/contact</a>
+    <h3>Why I host this instance?</h3>
+    I use frogfind daily, because I do not use a standard browser. I use LYNX, and it can not render other search engines/websites well. The official instance of frogfind is slow and non-https, so I made my own.
 </body>
 </html>
