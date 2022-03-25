@@ -89,7 +89,7 @@ function clean_str($str) {
     <small><center>Built by <b><a href="https://youtube.com/ActionRetro">Action Retro</a></b> on YouTube | <a href="about.php">Why build such a thing?</a></center><br>
     <small><center>Powered by DuckDuckGo</center></small>
     <small><center>Instance ran by <a href="https://www.neb.cx/contact/">neb</a></center></small>
-    <small><center>Modified source code at <a href="https://github.com/NebulaBC/FrogFind/">my ff git repo</a></center></small>
+    <small><center>Modified source code at <a href="https://github.com/NebulaBC/neb-FrogFind/">my ff git repo</a></center></small>
 </form>
 </form>
 
