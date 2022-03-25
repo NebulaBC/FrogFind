@@ -1,4 +1,7 @@
-# FrogFind
-Source for the FrogFind search engine for vintage computers
+# nebfinder
+source for the nebfinder LYNX surf engine
 
-Love the frog. Be the frog.
+Love the LYNX. Be the LYNX.
+
+https://finder.neb.cx/
+https://lynx.neb.cx/
